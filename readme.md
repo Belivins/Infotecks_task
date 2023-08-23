@@ -2,5 +2,5 @@
 Реализовать HTTP-сервер для предоставления информации по географическим объектам.
 
 ## Порядок запуска скрипта
-1. <code>pip install -r requirments.txt</code>
-2. <code>python3 script.py</code>
+1. Установить необходимые зависимости <code>pip install -r requirments.txt</code>
+2. Запустить скрипт <code>python script.py</code>
